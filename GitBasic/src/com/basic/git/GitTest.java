@@ -13,6 +13,7 @@ public class GitTest {
 		GitTest gt=new GitTest();
 		int a= gt.sum(10, 20);
 		System.out.println("sum is"+a);
+		System.out.println("First Git Program");
 		
 	}
 
